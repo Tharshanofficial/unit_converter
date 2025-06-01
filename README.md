@@ -4,24 +4,24 @@ A graphical unit conversion tool built with **Python's Tkinter** library. This a
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Volume unit conversions (e.g., Cubic meters ⇄ Liters)
-- ✅ Length unit conversions (e.g., Millimeters ⇄ Kilometers)
-- ✅ Mass unit conversions (e.g., Milligrams ⇄ Kilograms)
-- ✅ Real-time input and conversion
-- ✅ Error handling for invalid input
-- ✅ Easy-to-use dropdown menus for unit selection
+- Volume unit conversions (e.g., Cubic meters ⇄ Liters)
+- Length unit conversions (e.g., Millimeters ⇄ Kilometers)
+- Mass unit conversions (e.g., Milligrams ⇄ Kilograms)
+- Real-time input and conversion
+- Error handling for invalid input
+- Easy-to-use dropdown menus for unit selection
 
 ---
 
-## 🖥️ GUI Preview
+##  GUI Preview
 
 ![Unit Converter Screenshot](preview.png) <!-- Replace with actual image if available -->
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.x
 
@@ -29,7 +29,7 @@ No external libraries are required as this uses only built-in Python modules.
 
 ---
 
-## 🔧 How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Navigate to the folder containing the script.
@@ -67,16 +67,16 @@ Supported Units
         Decigrams
         Kilograms
 
-⚠️ Notes
+⚠ Notes
     Make sure to input valid numbers before clicking convert.
     If you select mismatched unit types, conversion will not proceed.
     Future updates may include temperature, time, or currency support.
 
-📜 License
+ License
     This project is licensed under the MIT License.
 
-👨‍💻 Author
+ Author
     Developed by Tharshan Atputharasu
 
-    GitHub: github.com/
+    GitHub: https://github.com/Tharshanofficial/
 
